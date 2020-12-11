@@ -13,4 +13,5 @@
 - **author_identification_dense_model.h5**, **author_identification_multiconv_model.h5**, **hyperparam1_best_model.h5**, **hyperparam2_best_model.h5**: Saved Keras models.
 - **Author_Identification_Evaluation.ipynb:** *RUNNABLE* Notebook to show our work on **ANY** English sentence. It encodes the sentence and predicts who could have written it. It uses **train.csv** and **author_identification_multiconv_model.h5**.
 - **dense_neural_network.ipynb**: Run this for the reproduction of the Dense Neural Network, it uses the file **train.csv** and **author_identification_dense_model.h5** in the end. Also the FastText wordembeddings can be downloaded with the code included in the notebook (it is commented out originally).
+- **Author_Identification_Dense_and_CNN_Networks.ipynb**: This file isn't necesseraly runnable, because fitting the Neural Networks took ~10 hours each, however, it includes comments and shows how the Dense and Convolutional Networks have been constructed.
 - **Simple_Word2vec_model.ipynb**: 
