@@ -15,4 +15,4 @@
 - **dense_neural_network.ipynb**: Run this for the reproduction of the Dense Neural Network, it uses the file **train.csv** and **author_identification_dense_model.h5** in the end. Also the FastText wordembeddings can be downloaded with the code included in the notebook (it is commented out originally).
 - **Author_Identification_Dense_and_CNN_Networks.ipynb**: This file isn't necesseraly runnable, because fitting the Neural Networks took ~10 hours each, however, it includes comments and shows how the Dense and Convolutional Networks have been constructed.
 - **Simple_Word2vec_model.ipynb**: 
-- **Hyperparameter_optimalization.ipynb**:
+- In the **documentation** folder we have the .pdf file with the actual documentation of the project and in the .zip file the source files for this pdf (pictures, .tex file, .bib file with the references)
