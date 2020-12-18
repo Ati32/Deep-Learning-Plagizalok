@@ -20,7 +20,7 @@
 
 **Video:**
 
-Link:
+Link: https://www.youtube.com/watch?v=xPIuGVfS0is&feature=youtu.be&ab_channel=D%C3%A1nielPfeifer
 
 - From 5:27 to 5:38 due to poor internet connection, we unfortunately lost some audio, however, everything said during that part can be directly read from the slides.
 - Due to technical difficulties I (Pfeifer Dániel) could not record myself since I do not own a webcamera.
