@@ -17,3 +17,10 @@
 - **Simple_Word2vec_model.ipynb**: This solution used only our data. With this method we have automatically detected the bigram from a stream of sentences without Neural Networks.
 - **Hyperparameter_optimalization.ipynb**: There was the solution, when we downloaded pre-trained word vectors with large datasets to obtain vector representations for words, here we used the FastText and GloVe wordembeddings. Here we optimized their parameters.
 - In the **documentation** folder we have the .pdf file with the actual documentation of the project and in the .zip file the source files for this pdf (pictures, .tex file, .bib file with the references).
+
+**Video:**
+
+Link:
+
+- From 5:27 to 5:38 due to poor internet connection, we unfortunately lost some audio, however, everything said during that part can be directly read from the slides.
+- Due to technical difficulties I (Pfeifer Dániel) could not record myself since I do not own a webcamera.
